@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Intercom (16.0.1)
+  - intercom_flutter (7.5.0):
+    - Flutter
+    - Intercom
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - intercom_flutter (from `.symlinks/plugins/intercom_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Intercom
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  intercom_flutter:
+    :path: ".symlinks/plugins/intercom_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  Intercom: 62fe4d94519fba99f17df3f7a0c62dc7dbcb7b02
+  intercom_flutter: 1b290c4b4e6772155b59f3d6b2e7b909de1fe58d
+
+PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
+
+COCOAPODS: 1.12.1
